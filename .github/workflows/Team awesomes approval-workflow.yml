@@ -1,2 +1,0 @@
-# Triggered when code is pushed to any branch in a repository
-on: push
